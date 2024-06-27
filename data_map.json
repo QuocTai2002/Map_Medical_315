@@ -2398,5 +2398,21 @@
         "latitude": "10.772296491466408",
         "longitude": "106.6319493027954",
         "tiemChung": ""
+    },
+    {
+        "title": "Số 10A Ấp Bắc",
+        "type": "NHI",
+        "img": "SrcLogo.nhi",
+        "name": "Name.nhi",
+        "hotline": "Hotline315",
+        "address": "17-19 Trần Huỳnh, P. 8, TP. Bạc Liêu, Tỉnh Bạc Liêu",
+        "district": "TP. Mỹ Tho",
+        "city": "Tiền Giang",
+        "workingTime": "Time.comingsoon",
+        "linkMap": "https://maps.app.goo.gl/p25N1jRmb4RkSaJb6",
+        "srcIframe": "<<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d534.9664856562694!2d106.34205978919047!3d10.379292339899635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310abaa95e3ca89d%3A0xe50b0bcb8c0647a!2zMTBhIOG6pHAgQuG6r2MsIEtodSBQaOG7kSAxLCBUaMOgbmggcGjhu5EgTeG7uSBUaG8sIFRp4buBbiBHaWFuZyA4NDEwMCwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1719469722772!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "latitude": "10.379018295313918",
+        "longitude": "106.34191792817398",
+        "tiemChung": "Coming soon"
     }
 ]
