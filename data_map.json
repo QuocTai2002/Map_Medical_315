@@ -2414,5 +2414,21 @@
         "latitude": "10.379018295313918",
         "longitude": "106.34191792817398",
         "tiemChung": "Coming soon"
+    },
+    {
+        "title": "Số 166 Phạm Hùng",
+        "type": "NHI",
+        "img": "SrcLogo.nhi",
+        "name": "Name.nhi",
+        "hotline": "0901.315.315",
+        "address": "166 Phạm Hùng, khu vực Yên Hoà, phường Lê Bình, quận Cái Răng, thành phố Cần Thơ",
+        "district": "Q. Cái Răng",
+        "city": "Cần Thơ",
+        "workingTime": "Time.comingsoon",
+        "linkMap": "https://maps.app.goo.gl/ddEvBm2gw63zYXVZ6",
+        "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d343.9698488126759!2d105.74993840800988!3d9.998679846343915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31a089bb0abb5b8f%3A0x7fdd1b0cfd684ae1!2zMTY2IMSQLiBQaOG6oW0gSMO5bmcsIEzDqiBCw6xuaCwgQ8OhaSBSxINuZywgQ-G6p24gVGjGoSwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1719885459850!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "latitude": "9.998553590179457",
+        "longitude": "105.74985387835008",
+        "tiemChung": "Coming soon"
     }
 ]
