@@ -2121,7 +2121,7 @@
         "address": "28 Quốc Lộ 1, P. 5, TP. Tân An, Tỉnh Long An",
         "district": "TP. Tân An",
         "city": "Long An",
-        "workingTime": "Time.part",
+        "workingTime": "Time.full",
         "linkMap": "https://maps.app.goo.gl/njVCb6ViGMqWCffR7",
         "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3922.5763065842075!2d106.39582037503844!3d10.53399878960041!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTDCsDMyJzAyLjQiTiAxMDbCsDIzJzU0LjIiRQ!5e0!3m2!1svi!2s!4v1711704762121!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
         "latitude": "10.550614359082921",
