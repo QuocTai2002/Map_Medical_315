@@ -2446,5 +2446,21 @@
         "latitude": "10.771591708220534",
         "longitude": "106.62845218182628",
         "tiemChung": "Coming soon"
+    },
+    {
+        "title": "Số 403A Quốc Lộ 9",
+        "type": "NHI",
+        "img": "SrcLogo.nhi",
+        "name": "Name.nhi",
+        "hotline": "0901.315.315",
+        "address": "403A Quốc Lộ 91, khu vực Long Thạnh A, phường Thốt Nốt, quận Thốt Nốt, thành phố Cần Thơ",
+        "district": "Q. Thốt Nốt",
+        "city": "Cần Thơ",
+        "workingTime": "Time.comingsoon",
+        "linkMap": "https://maps.app.goo.gl/QLrNkP7RxhpKQJdw8",
+        "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d476.7615163186348!2d105.52986520639469!3d10.273382981808362!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310a765ca8c6a901%3A0x77a3e25d9b52863!2zNTY4IFFMOTEsIFRULiBUaOG7kXQgTuG7kXQsIFRo4buRdCBO4buRdCwgQ-G6p24gVGjGoSwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1722998296108!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "latitude": "10.273522082828674",
+        "longitude": "105.52955250418474",
+        "tiemChung": "Coming soon"
     }
 ]
