@@ -139,6 +139,9 @@ const initMap = async () => {// toa do hcm 10.7996365, 106.6717373
       case "Time.comingsoon":
         chiNhanh.workingTime = "Coming soon";
         break;
+      case "Time.tiemchung":
+        chiNhanh.workingTime = "T2-CN: 08:00 - 11:00 & 13:30 - 17:00";
+        break;
       default:
         break;
     };
