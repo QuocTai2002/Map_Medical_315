@@ -2667,5 +2667,22 @@
         "longitude": "106.81485928087646",
         "tiemChung": "Coming soon",
         "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+    },
+    {
+        "title": "Số 568 Quốc Lộ 14",
+        "type": "NHI",
+        "img": "SrcLogo.nhi",
+        "name": "Name.nhi",
+        "hotline": "0901.315.315",
+        "address": "568 Quốc lộ 14, khu phố Phú Lộc, Phường Tân Phú, TP. Đồng Xoài, Tỉnh Bình Phước",
+        "district": "TP. Đồng Xoài",
+        "city": "Bình Phước",
+        "workingTime": "Time.comingsoon",
+        "linkMap": "https://maps.app.goo.gl/cHeAWvZcYUeeLise8",
+        "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d244.32689888481204!2d106.89193898338955!3d11.53532457488464!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3174a03907311ccb%3A0x4dd8f83106687b56!2zNTY4IFFMMTQsIFTDom4gUGjDuiwgxJDhu5NuZyBYb8OgaSwgQsOsbmggUGjGsOG7m2M!5e0!3m2!1svi!2s!4v1726732745704!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "latitude": "11.535234236248158",
+        "longitude": "106.89199061591263",
+        "tiemChung": "Coming soon",
+        "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
     }
 ]
