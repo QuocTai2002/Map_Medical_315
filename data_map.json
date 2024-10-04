@@ -1028,7 +1028,7 @@
     "address": "184 Đỗ Xuân Hợp, P. Phước Long A, TP. Thủ Đức, TP. Hồ Chí Minh",
     "district": "TP. Thủ Đức",
     "city": "TP. HCM",
-    "workingTime": "Time.part",
+    "workingTime": "Time.full",
     "linkMap": "https://maps.app.goo.gl/eNAKZTLo3SMVXuNC9",
     "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15675.105798765488!2d106.7685074!3d10.8284125!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175271970f7f9cb%3A0xbaebbde081975b77!2zUGjhu6UgU-G6o24gMzE1!5e0!3m2!1svi!2s!4v1711700652101!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
     "latitude": 10.829065842915,
