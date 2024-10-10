@@ -2685,4 +2685,22 @@
     "tiemChung": "",
     "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
   }
+  ,
+  {
+    "title": "Số 76-78-80 Lê Lợi",
+    "type": "NHI",
+    "img": "SrcLogo.nhi",
+    "name": "Name.nhi",
+    "hotline": "Hotline315",
+    "address": "76-78-80 Lê Lợi, phường Chánh Lộ, thành phố Quảng Ngãi, tỉnh Quảng Ngãi",
+    "district": "TP Quảng Ngãi",
+    "city": "TP. Quảng Ngãi",
+    "workingTime": "Time.comingsoon",
+    "linkMap": "https://maps.app.goo.gl/MPepGQNfpudwijjZ9",
+    "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d270.2198035628902!2d108.80469275692799!3d15.113481104335706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTXCsDA2JzQ4LjMiTiAxMDjCsDQ4JzE3LjYiRQ!5e0!3m2!1svi!2s!4v1728534437274!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+    "latitude": 15.113410983991457,
+    "longitude": 108.80488544030176,
+    "tiemChung": "",
+    "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+  }
 ]
