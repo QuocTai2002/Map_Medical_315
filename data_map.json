@@ -2718,5 +2718,56 @@
         "latitude": "21.018638625669976",
         "longitude": "105.79911155259457",
         "tiemChung": "Coming soon"
-    }
+    },
+  {
+    "title": "Số 16 Ngách 254D/17 Minh Khai",
+    "type": "NHI",
+    "img": "SrcLogo.nhi",
+    "name": "Name.nhi",
+    "hotline": "Hotline315",
+    "address": "Số 16 Ngách 254D/17 Minh Khai, phường Mai Động, quận Hoàng Mai, Thành phố Hà Nội",
+    "district": "Q. Hoàng Mai",
+    "city": "Hà Nội",
+    "workingTime": "Time.comingsoon",
+    "linkMap": "https://maps.app.goo.gl/nEKfn2qp3ox2MhYk9",
+    "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d232.80800004884944!2d105.86028944293676!3d20.995523042820327!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ac0e22fd6ff7%3A0x52df17574d55cfc9!2zMjg2IFAuIE1pbmggS2hhaSwgTWFpIMSQ4buZbmcsIEhhaSBCw6AgVHLGsG5nLCBIw6AgTuG7mWksIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1729494660277!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+    "latitude": 20.995480785571875,
+    "longitude": 105.86017276684566,
+    "tiemChung": "Coming soon",
+    "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+  },
+  {
+    "title": "Số 16 Ngách 254D/17 Minh Khai",
+    "type": "SAN",
+    "img": "SrcLogo.san",
+    "name": "Name.san",
+    "hotline": "Hotline315",
+    "address": "Số 16 Ngách 254D/17 Minh Khai, phường Mai Động, quận Hoàng Mai, Thành phố Hà Nội",
+    "district": "Q. Hoàng Mai",
+    "city": "Hà Nội",
+    "workingTime": "Time.comingsoon",
+    "linkMap": "https://maps.app.goo.gl/nEKfn2qp3ox2MhYk9",
+    "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d232.80800004884944!2d105.86028944293676!3d20.995523042820327!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ac0e22fd6ff7%3A0x52df17574d55cfc9!2zMjg2IFAuIE1pbmggS2hhaSwgTWFpIMSQ4buZbmcsIEhhaSBCw6AgVHLGsG5nLCBIw6AgTuG7mWksIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1729494660277!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+    "latitude": 20.995480785571875,
+    "longitude": 105.86017276684566,
+    "tiemChung": "Coming soon",
+    "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+  },
+  {
+    "title": "Số 349 Đường Nguyễn Văn Cừ",
+    "type": "NHI",
+    "img": "SrcLogo.nhi",
+    "name": "Name.nhi",
+    "hotline": "Hotline315",
+    "address": "Số 349, Đường Nguyễn Văn Cừ, phường Ngọc Lâm, quận Long Biên, Thành phố Hà Nội",
+    "district": "Q. Long Biên",
+    "city": "Hà Nội",
+    "workingTime": "Time.comingsoon",
+    "linkMap": "https://maps.app.goo.gl/g2FcAZCyp11BMmNM9",
+    "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d325.9744011871974!2d105.87657091508586!3d21.046476469236392!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135a97e1087b70d%3A0xed0f4b616ea1087e!2zMzQ5IMSQLiBOZ3V54buFbiBWxINuIEPhu6ssIE5n4buNYyBMw6JtLCBMb25nIEJpw6puLCBIw6AgTuG7mWkgMTAwMDAwLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1729494908460!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+    "latitude": 21.04641993093276,
+    "longitude": 105.87678975299583,
+    "tiemChung": "Coming soon",
+    "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+  }
 ]
