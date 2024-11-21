@@ -2797,10 +2797,10 @@
     "district": "Q.Tân Bình",
     "city": "TP.HCM",
     "workingTime": "Time.comingsoon",
-    "linkMap": "https://maps.app.goo.gl/jSw1VuRoNrWv5sPB9",
-    "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d666.5695654197161!2d106.63411472696815!3d10.832634990263152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175297ec714ffcd%3A0x6ea83fb87915b6d8!2zMTY1LTE2NyBQaGFuIEh1eSDDjWNoLCBQaMaw4budbmcgMTIsIEfDsiBW4bqlcCwgSOG7kyBDaMOtIE1pbmggNzM2MDkwLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1732158677398!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-    "latitude": 10.832363435271152,
-    "longitude": 106.6340545032369,
+    "linkMap": "https://maps.app.goo.gl/YnFvSRrchdENbzdD6",
+    "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d244.92050188904767!2d106.63331119343498!3d10.83211301749114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1svi!2s!4v1732158924126!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+    "latitude": 10.832163264915872,
+    "longitude": 106.63365283350821,
     "tiemChung": "",
     "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
   }
