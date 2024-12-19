@@ -2803,5 +2803,22 @@
     "longitude": 106.63365283350821,
     "tiemChung": "",
     "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+  },
+  {
+    "title": "Số 487 – 487A Huỳnh Tấn Phát",
+    "type": "SAN",
+    "img": "SrcLogo.san",
+    "name": "Name.san",
+    "hotline": "Hotline315",
+    "address": "487 – 487A Huỳnh Tấn Phát, Khu phố 7, thị trấn Nhà Bè, huyện Nhà Bè, Thành phố Hồ Chí Minh",
+    "district": "H. Hóc Môn",
+    "city": "TP.HCM",
+    "workingTime": "Time.comingsoon",
+    "linkMap": "https://maps.app.goo.gl/tDVvfWCGJKV63Bnq7",
+    "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1960.3072186874772!2d106.74338835886076!3d10.687005879233324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31753ab9b1c1cde7%3A0x7fa26fe1ba898170!2zNDg3IEh14buzbmggVOG6pW4gUGjDoXQsIFRULiBOaMOgIELDqCwgTmjDoCBCw6gsIEjhu5MgQ2jDrSBNaW5o!5e0!3m2!1svi!2s!4v1734592432809!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+    "latitude": 10.68702960040391,
+    "longitude": 106.74366194417784,
+    "tiemChung": "",
+    "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
   }
 ]
