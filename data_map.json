@@ -2771,7 +2771,7 @@
     "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
   },
   {
-    "title": "179-181 Phan Huy Ích",
+    "title": "Số 179-181 Phan Huy Ích",
     "type": "NHI",
     "img": "SrcLogo.nhi",
     "name": "Name.nhi",
@@ -2788,7 +2788,7 @@
     "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
   },
   {
-    "title": "41 Lê Lợi",
+    "title": "Số 41 Lê Lợi",
     "type": "SAN",
     "img": "SrcLogo.san",
     "name": "Name.san",
@@ -2801,6 +2801,40 @@
     "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3851.8185570210735!2d108.8058155!3d15.113325499999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3169ad2a991a7f2b%3A0x60c0008480f83588!2zNDEgTMOqIEzhu6NpLCBDaMOhbmggTOG7mSwgUXXhuqNuZyBOZ8OjaQ!5e0!3m2!1svi!2s!4v1735363033070!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
     "latitude": 15.11333027535169,
     "longitude": 108.80584026994289,
+    "tiemChung": "",
+    "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+  }
+    {
+    "title": "Số 1263 Tôn Đức Thắng",
+    "type": "NHI",
+    "img": "SrcLogo.nhi",
+    "name": "Name.nhi",
+    "hotline": "Hotline315",
+    "address": "1263 Tôn Đức Thắng, Khu vực 5, phường Châu Văn Liêm, quận Ô Môn, thành phố Cần Thơ",
+    "district": "Q.Ô Môn",
+    "city": "TP. Cần Thơ",
+    "workingTime": "Time.comingsoon",
+    "linkMap": "https://maps.app.goo.gl/zoFTwbpH12VSdd7F9",
+    "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d343.85249710954685!2d105.6194726193569!3d10.10895244759947!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31a084e08d42b5dd%3A0xf202d432ae89c820!2zMTI2MyDEkC4gVMO0biDEkOG7qWMgVGjhuq9uZywgQ2jDonUgVsSDbiBMacOqbSwgw5QgTcO0biwgQ-G6p24gVGjGoSwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1736491011222!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+    "latitude": 10.10886229539731,
+    "longitude": 105.6195984746356,
+    "tiemChung": "",
+    "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+  },
+    {
+    "title": "Số 2 Nguyễn Thái Học",
+    "type": "NHI",
+    "img": "SrcLogo.nhi",
+    "name": "Name.nhi",
+    "hotline": "Hotline315",
+    "address": "02 Nguyễn Thái Học, Khu vực 3, Phường 1, TP. Vị Thanh, tỉnh Hậu Giang",
+    "district": "TP. Vị Thanh",
+    "city": "Hậu Giang",
+    "workingTime": "Time.comingsoon",
+    "linkMap": "https://maps.app.goo.gl/qJ8eVB1Z7ghnBSJ99",
+    "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d429.50984107196587!2d105.46539226210602!3d9.778921641955458!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31a0e91026336b97%3A0x138d932c4b207348!2zTmd1eeG7hW4gVGjDoWkgSOG7jWMsIFBoxrDhu51uZyAxLCBUcC4gVuG7iyBUaGFuaCwgSOG6rXUgR2lhbmcsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1736491227457!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+    "latitude": 9.778906049792031,
+    "longitude": 105.46529615779923,
     "tiemChung": "",
     "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
   }
