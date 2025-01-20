@@ -2286,7 +2286,7 @@
     "address": "561-563 Điện Biên Phủ, P. Hòa Khê, Q. Thanh Khê, TP. Đà Nẵng",
     "district": "Q. Thanh Khê",
     "city": "Đà Nẵng",
-    "workingTime": "Time.part",
+    "workingTime": "Time.full",
     "linkMap": "https://maps.app.goo.gl/TRXES8i5dvW9T1HX6",
     "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3834.0061425748236!2d108.1816964760628!3d16.06517103954462!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3142190227dfe713%3A0xb22108f8719cdf40!2zNTYzIMSQaeG7h24gQmnDqm4gUGjhu6csIFRoYW5oIEtow6ogxJDDtG5nLCBUaGFuaCBLaMOqLCDEkMOgIE7hurVuZyA1NTAwMDAsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1711705024321!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
     "latitude": 16.06516461,
