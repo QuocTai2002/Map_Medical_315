@@ -30,6 +30,8 @@ const initMap = async () => {// toa do hcm 10.7996365, 106.6717373
     bvsan: "Bệnh viện Phụ Sản Quốc Tế 315",
     bvnhi: "Bệnh viện Nhi Đồng Quốc Tế 315",
     vp: "Văn phòng Medical 315",
+    ivy: "Phòng Khám Đa Khoa Quốc Tết Ivy Health",
+
   };
   const layIdChiNhanh = (chiNhanh) => {
     return "id" + dataMap315.indexOf(chiNhanh);
@@ -123,6 +125,10 @@ const initMap = async () => {// toa do hcm 10.7996365, 106.6717373
         chiNhanh.img = "https://w.ladicdn.com/5aa6273ea81f66ca2eacc40b/map-icon-vp-20240327164436-ojkt8.png";
         chiNhanh.name = Name.vp;
         break;
+      case "IVY":
+        chiNhanh.img = "https://w.ladicdn.com/5aa6273ea81f66ca2eacc40b/ivy-lodo-20221025111921-fqww3.png";
+        chiNhanh.name = Name.ivy;
+        break;  
       default:
         break;
     };
