@@ -2872,4 +2872,40 @@
         "tiemChung": "Coming soon",
         "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
     }
+    ,
+    {
+        "title": "Số 376 Đại Lộ Bình Dương",
+        "type": "NHI",
+        "img": "SrcLogo.nhi",
+        "name": "Name.nhi",
+        "hotline": "Hotline315",
+        "address": "376 đường Đại Lộ Bình Dương, Khu phố 1, phường Phú Lợi, thành phố Thủ Dầu Một, tỉnh Bình Dương",
+        "district": "Tp. Thủ Dầu Một",
+        "city": "Bình Dương",
+        "workingTime": "Time.comingsoon",
+        "linkMap": "https://maps.app.goo.gl/6HSoEJK3kDf6a2jn8",
+        "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d666.2287184749135!2d106.6664402607626!3d10.984691843975838!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3174d122e7a963a7%3A0x7453e7f18719c14c!2zMzc2IMSQ4bqhaSBs4buZIELDrG5oIETGsMahbmcsIFBow7ogTOG7o2ksIFRo4bunIEThuqd1IE3hu5l0LCBCw6xuaCBExrDGoW5nLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1739528219853!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "latitude": "10.985129871470042",
+        "longitude": "106.66619206599137",
+        "tiemChung": "Coming soon",
+        "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+    }
+        ,
+    {
+        "title": "Số 1994 đường Trần Hưng Đạo",
+        "type": "NHI",
+        "img": "SrcLogo.nhi",
+        "name": "Name.nhi",
+        "hotline": "Hotline315",
+        "address": "1994 đường Trần Hưng Đạo, khóm Tân Quới, phường Mỹ Quý, thành phố Long Xuyên, tỉnh An Giang",
+        "district": "Tp. Long Xuyên",
+        "city": "An Giang",
+        "workingTime": "Time.comingsoon",
+        "linkMap": "https://maps.app.goo.gl/8UPx2RNphPj7Fb369",
+        "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1039.5388006740036!2d105.45391902264394!3d10.359792425638325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310a73a7439dfc07%3A0x30f40e49588f0868!2zMTk5NCBUcuG6p24gSMawbmcgxJDhuqFvLCBN4bu5IFF1w70sIFRow6BuaCBwaOG7kSBMb25nIFh1ecOqbiwgQW4gR2lhbmcsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1739528418616!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "latitude": "10.359637282248954",
+        "longitude": "105.45421740129076",
+        "tiemChung": "Coming soon",
+        "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+    }
 ]
