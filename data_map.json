@@ -2906,4 +2906,41 @@
         "tiemChung": "Coming soon",
         "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
     }
+    ,
+    {
+        "title": "Số 160B đường Man Thiện",
+        "type": "SAN",
+        "img": "SrcLogo.san",
+        "name": "Name.san",
+        "hotline": "Hotline315",
+        "address": "160B đường Man Thiện, Khu phố 5, phường Tăng Nhơn Phú A, thành phố Thủ Đức, Thành phố Hồ Chí Minh ",
+        "district": "TP. Thủ Đức",
+        "city": "Hồ Chí Minh",
+        "workingTime": "Time.comingsoon",
+        "linkMap": "https://maps.app.goo.gl/cFDjRuvFaqMrUY1c9",
+        "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.4550104402565!2d106.7895951758842!3d10.852955557775735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175276a4488a929%3A0x47fbdcec35b44ad8!2zMTYwYiDEkC4gTWFuIFRoaeG7h24sIFBoxrDhu51uZyBUw6JuIFBow7osIFRo4bunIMSQ4bupYywgSOG7kyBDaMOtIE1pbmgsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1740925442851!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "latitude": "10.852942237452927",
+        "longitude": "106.79216916907943",
+        "tiemChung": "Coming soon",
+        "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+    }
+    ,
+    {
+        "title": "Số 38 đường Phan Văn Hùm",
+        "type": "NHI",
+        "img": "SrcLogo.nhi",
+        "name": "Name.nhi",
+        "hotline": "Hotline315",
+        "address": "38 đường Phan Văn Hùm (Trung Mỹ Tây 13), Khu phố 6, phường Trung Mỹ Tây, Quận 12, Thành phố Hồ Chí Minh",
+        "district": "Q. 12",
+        "city": "Hồ Chí Minh",
+        "workingTime": "Time.comingsoon",
+        "linkMap": "https://maps.app.goo.gl/mBfbXLJg6rMst5Ju8",
+        "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.402483663307!2d106.61370027588431!3d10.856960957701382!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752bd891ff0f5f%3A0x933f17ccefb099f!2zMzggUGhhbiBWxINuIEjDuW0sIFRydW5nIE3hu7kgVMOieSwgUXXhuq1uIDEyLCBI4buTIENow60gTWluaCwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1740925627739!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "latitude": "10.856961922568694",
+        "longitude": "106.61625791167904",
+        "tiemChung": "Coming soon",
+        "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+    }
+    
 ]
