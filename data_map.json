@@ -2942,5 +2942,22 @@
         "tiemChung": "Coming soon",
         "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
     }
-    
+        ,
+    {
+        "title": "Số 6/10 Lê Triệu Kiết",
+        "type": "NHI",
+        "img": "SrcLogo.nhi",
+        "name": "Name.nhi",
+        "hotline": "Hotline315",
+        "address": "Số 6/10 Lê Triệu Kiết, phường Mỹ Bình, thành phố Long Xuyên, tỉnh An Giang",
+        "district": "TP. Long Xuyên",
+        "city": "An Giang",
+        "workingTime": "Time.comingsoon",
+        "linkMap": "https://maps.app.goo.gl/pbUyhNGa1L6mUmmz8",
+        "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1297.0753950340047!2d105.43637817191883!3d10.38706648408526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310a72ef5d5f20b1%3A0xaf63c9c20d1d92c8!2zNiBMw6ogVHJp4buHdSBLaeG6v3QsIFAuIE3hu7kgQsOsbmgsIFRow6BuaCBwaOG7kSBMb25nIFh1ecOqbiwgQW4gR2lhbmcsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1741175377556!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "latitude": "10.386998469921894",
+        "longitude": "105.4374987132608",
+        "tiemChung": "Coming soon",
+        "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+    }
 ]
