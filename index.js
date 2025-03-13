@@ -363,7 +363,6 @@ const initMap = async () => {
     }
     str = str.replace(/\s+/g, " ");
     str = str.trim();
-    console.log(str);
     return str;
   };
   const xuLyChuoi = (str) => {
