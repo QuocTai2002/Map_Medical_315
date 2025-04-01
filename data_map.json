@@ -2990,5 +2990,22 @@
         "longitude": "108.14850514842485",
         "tiemChung": "Coming soon",
         "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+    },
+    {
+        "title": "Số 40 Nguyễn Đáng",
+        "type": "NHI",
+        "img": "SrcLogo.nhi",
+        "name": "Name.nhi",
+        "hotline": "Hotline315",
+        "address": "40 Nguyễn Đáng, Khóm 8, Phường 3, Thành Phố Trà Vinh, tỉnh Trà Vinh",
+        "district": "TP. Trà Vinh",
+        "city": "Trà Vinh",
+        "workingTime": "Time.comingsoon",
+        "linkMap": "https://maps.app.goo.gl/setuFKZPQ6Dh3aFE9",
+        "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d344.04906012634785!2d106.34186464557581!3d9.923561303704988!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31a0175eb777c51b%3A0x4c95951462844ba5!2zMjUgxJAuIE5ndXnhu4VuIMSQw6FuZywgUGjGsOG7nW5nIDYsIFRyw6AgVmluaA!5e0!3m2!1svi!2s!4v1743496153539!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "latitude": "9.923348977945135",
+        "longitude": "106.34177823747402",
+        "tiemChung": "Coming soon",
+        "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
     }
 ]
