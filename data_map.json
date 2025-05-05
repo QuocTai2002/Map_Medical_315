@@ -3044,4 +3044,22 @@
         "tiemChung": "Coming soon",
         "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
     }
+            ,
+    {
+        "title": "Số 204 Nguyễn Công Trứ",
+        "type": "NHI",
+        "img": "SrcLogo.nhi",
+        "name": "Name.nhi",
+        "hotline": "Hotline315",
+        "address": "204 đường Nguyễn Công Trứ, phường Tân Giang, thành phố Hà Tĩnh, tỉnh Hà Tĩnh",
+        "district": "TP. Hà Tĩnh",
+        "city": "hà Tĩnh",
+        "workingTime": "Time.comingsoon",
+        "linkMap": "https://maps.app.goo.gl/qjx5oi76jjmff6uS6",
+        "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d803.8262534958907!2d105.90185587398597!3d18.345929280733188!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31384e40557791c7%3A0x82c46da5bae38231!2zMjA0IE5ndXnhu4VuIEPDtG5nIFRy4bupLCBUw6JuIEdpYW5nLCBIw6AgVMSpbmgsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1746428975459!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "latitude": "18.345893615451704",
+        "longitude": "105.90238192523987",
+        "tiemChung": "Coming soon",
+        "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+    }
 ]
