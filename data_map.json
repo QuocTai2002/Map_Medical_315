@@ -3026,4 +3026,22 @@
         "tiemChung": "Coming soon",
         "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
     }
+        ,
+    {
+        "title": "Số 15 Hoàng Diệu",
+        "type": "NHI",
+        "img": "SrcLogo.nhi",
+        "name": "Name.nhi",
+        "hotline": "Hotline315",
+        "address": "15 Hoàng Diệu, Phường 5, thành phố Đà Lạt, tỉnh Lâm Đồng",
+        "district": "TP. Đà Lạt",
+        "city": "Lâm Đồng",
+        "workingTime": "Time.comingsoon",
+        "linkMap": "https://maps.app.goo.gl/r5sUHRtZtdhAzQ988",
+        "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d266.0471132676409!2d108.43015056220405!3d11.942583358705901!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3171132cf72bcc89%3A0x918d430518abe1f0!2zMTUgxJAuIEhvw6BuZyBEaeG7h3UsIFBoxrDhu51uZyA1LCDEkMOgIEzhuqF0LCBMw6JtIMSQ4buTbmcgNjYxMTMsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1746427286682!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "latitude": "11.942351206444364",
+        "longitude": "108.43021125532293",
+        "tiemChung": "Coming soon",
+        "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+    }
 ]
