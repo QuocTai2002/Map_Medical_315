@@ -2129,11 +2129,11 @@
         "type": "MAT",
         "img": "SrcLogo.mat",
         "name": "Name.mat",
-        "hotline": "Hotline315",
+        "hotline": "0937.180.315",
         "address": "833 Nguyễn Văn Quá, P. Đông Hưng Thuận, Q. 12, TP. Hồ Chí Minh",
         "district": "Q. 12",
         "city": "Hồ Chí Minh",
-        "workingTime": "Time.comingsoon",
+        "workingTime": "Time.full",
         "linkMap": "https://maps.app.goo.gl/1e6LkPjJciHi9aJ67",
         "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.445767223119!2d106.63806699999999!3d10.8536605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317529329258d2b7%3A0xed8ce6b9b9e9f194!2zVGltIE3huqFjaCAtIFRp4buDdSDEkMaw4budbmcgMzE1IC0gTeG6r3QgMzE1!5e0!3m2!1svi!2s!4v1743409258567!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
         "latitude": "10.85359404",
@@ -2495,7 +2495,7 @@
         "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15749.87202950224!2d105.7147052!3d9.291733!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31a109bd1406fcbf%3A0x6e84e52743352068!2zTmhpIMSQ4buTbmcgVsOgIFRpw6ptIENo4bunbmc!5e0!3m2!1svi!2s!4v1727066819262!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
         "latitude": "9.291773765",
         "longitude": "105.714706175684",
-        "tiemChung": "Coming soon",
+        "tiemChung": "",
         "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
     },
     {
