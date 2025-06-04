@@ -1224,23 +1224,6 @@
         "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
     },
     {
-        "title": "Số 740-742 Cách Mạng Tháng Tám",
-        "type": "NHI",
-        "img": "SrcLogo.nhi",
-        "name": "Name.nhi",
-        "hotline": "0937.538.315",
-        "address": "740-742 Cách Mạng Tháng Tám, P. 5, Q. Tân Bình, TP. Hồ Chí Minh",
-        "district": "Q. Tân Bình",
-        "city": "Hồ Chí Minh",
-        "workingTime": "Time.full",
-        "linkMap": "https://maps.app.goo.gl/Sxw4rNXEU3K7nKgB7",
-        "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15677.249811526384!2d106.663748!3d10.787364!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f6fdc6a676f%3A0x7532b2a53603af4f!2zTmhpIMSQ4buTbmcgMzE1IFbDoCBUacOqbSBDaOG7p25n!5e0!3m2!1svi!2sus!4v1711701252548!5m2!1svi!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-        "latitude": "10.787363836909",
-        "longitude": "106.6637471",
-        "tiemChung": "",
-        "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
-    },
-    {
         "title": "Số 700-702 Cách Mạng Tháng Tám",
         "type": "SAN",
         "img": "SrcLogo.san",
