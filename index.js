@@ -1,5 +1,5 @@
 const parser = new DOMParser();
-const initMap = async () => {
+window.initMap = async function () {
   // toa do hcm 10.7996365, 106.6717373
   // Request needed libraries.
   const dataMap315json = await import("./data_map.json", {
@@ -927,4 +927,4 @@ const initMap = async () => {
   loadDsTinhTp();
   loadSoLuongChiNhanh();
 };
-initMap();
+
