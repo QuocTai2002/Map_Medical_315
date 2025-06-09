@@ -3214,9 +3214,9 @@
     },
          {
         "title": "Số 204 Nguyễn Công Trứ",
-        "type": "NHI",
-        "img": "SrcLogo.nhi",
-        "name": "Name.nhi",
+        "type": "SAN",
+        "img": "SrcLogo.san",
+        "name": "Name.san",
         "hotline": "Hotline315",
         "address": "204 đường Nguyễn Công Trứ, phường Tân Giang, thành phố Hà Tĩnh, tỉnh Hà Tĩnh",
         "district": "Hà Tĩnh",
