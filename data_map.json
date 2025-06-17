@@ -3228,6 +3228,40 @@
         "longitude": "106.42074171761966",
         "tiemChung": "Coming soon",
         "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+    },
+     {
+        "title": "Số 62 đường TL27",
+        "type": "NHI",
+        "img": "SrcLogo.nhi",
+        "name": "Name.nhi",
+        "hotline": "Hotline315",
+        "address": "62 đường TL27, Khu phố 3B, phường Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh",
+        "district": "Q. 12",
+        "city": "Hồ Chí Minh",
+        "workingTime": "Time.comingsoon",
+        "linkMap": "https://maps.app.goo.gl/Lh4NvRwDLDEjW3Cu9",
+        "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1037.8124045791924!2d106.68550560432932!3d10.86797596506056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175282e4de86a89%3A0x4593069d897c4f06!2zNjIgxJAuIFRo4bqhbmggTOG7mWMgMjcsIFRo4bqhbmggTOG7mWMsIFF14bqtbiAxMiwgSOG7kyBDaMOtIE1pbmgsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1750164549101!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "latitude": "10.86804712875178",
+        "longitude": "106.68530100182865",
+        "tiemChung": "Coming soon",
+        "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+    },
+     {
+        "title": "Số 32 - 34 - 36 Quang Trung",
+        "type": "NHI",
+        "img": "SrcLogo.nhi",
+        "name": "Name.nhi",
+        "hotline": "Hotline315",
+        "address": "32 - 34 - 36 Quang Trung, phường Ngọc Trạo, thành phố Thanh Hoá, tỉnh Thanh Hoá",
+        "district": "Thanh Hoá",
+        "city": "Thanh Hoá",
+        "workingTime": "Time.comingsoon",
+        "linkMap": "https://maps.app.goo.gl/zESCTVD1C3LS5LmR7",
+        "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1240.7425588375065!2d105.77563176044924!3d19.797885197120625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTnCsDQ3JzUzLjMiTiAxMDXCsDQ2JzM0LjYiRQ!5e0!3m2!1svi!2s!4v1750164801277!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "latitude": "19.798133760470613",
+        "longitude": "105.77625585942454",
+        "tiemChung": "Coming soon",
+        "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
     }
 
     
