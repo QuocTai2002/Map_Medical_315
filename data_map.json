@@ -3262,6 +3262,23 @@
         "longitude": "105.77625585942454",
         "tiemChung": "Coming soon",
         "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+    },
+     {
+        "title": "Số 282 đường Nguyễn Văn Cừ",
+        "type": "NHI",
+        "img": "SrcLogo.nhi",
+        "name": "Name.nhi",
+        "hotline": "Hotline315",
+        "address": "282 đường Nguyễn Văn Cừ, khối Hưng Phúc, phường Hưng Phúc, Thành phố Vinh, tỉnh Nghệ An",
+        "district": "TP. Vinh",
+        "city": "Nghệ An",
+        "workingTime": "Time.comingsoon",
+        "linkMap": "https://maps.app.goo.gl/iyKEUdteLpejWSCu7",
+        "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3779.585089526519!2d105.68097657597365!3d18.682605764203135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3139ce748d8fa513%3A0x6f509b523653d968!2zMjgyIE5ndXnhu4VuIFbEg24gQ-G7qywgSMawbmcgQsOsbmgsIFZpbmgsIE5naOG7hyBBbiA0NjAwMDAsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1750241376950!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "latitude": "18.682580863458046",
+        "longitude": "105.68355212035861",
+        "tiemChung": "Coming soon",
+        "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
     }
 
     
