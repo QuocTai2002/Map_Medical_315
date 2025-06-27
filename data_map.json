@@ -3248,9 +3248,9 @@
     },
      {
         "title": "Số 32 - 34 - 36 Quang Trung",
-        "type": "NHI",
-        "img": "SrcLogo.nhi",
-        "name": "Name.nhi",
+        "type": "SAN",
+        "img": "SrcLogo.san",
+        "name": "Name.san",
         "hotline": "Hotline315",
         "address": "32 - 34 - 36 Quang Trung, phường Ngọc Trạo, thành phố Thanh Hoá, tỉnh Thanh Hoá",
         "district": "Thanh Hoá",
