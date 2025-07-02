@@ -2694,7 +2694,7 @@
         "address": "112 Vũ Phạm Hàm, P. Yên Hoà, Q. Cầu Giấy, TP. Hà Nội",
         "district": "Q. Cầu Giấy",
         "city": "Hà Nội",
-        "workingTime": "Time.full",
+        "workingTime": "Time.part",
         "linkMap": "https://maps.app.goo.gl/HHv7vV5wy1QZq1rM6",
         "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.353131524221!2d105.79925440000001!3d21.018551799999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135abd9feea4cb5%3A0xac62c4949ce31996!2zTmhpIMSQ4buTbmcgMzE1!5e0!3m2!1svi!2s!4v1743409472433!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
         "latitude": "21.018638625669976",
