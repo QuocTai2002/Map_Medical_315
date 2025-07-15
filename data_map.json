@@ -3249,4 +3249,22 @@
         "tiemChung": "Coming soon",
         "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
     }    
+    ,
+     {
+        "title": "Số 181 Nguyễn Trung Trực",
+        "type": "NHI",
+        "img": "SrcLogo.nhi",
+        "name": "Name.nhi",
+        "hotline": "Hotline315",
+        "address": "181 đường Nguyễn Trung Trực, phường Rạch Giá, tỉnh An Giang",
+        "district": "Rạch Giá",
+        "city": "An Giang",
+        "workingTime": "Time.comingsoon",
+        "linkMap": "https://maps.app.goo.gl/tT87BtEsqipw3EEFA",
+        "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d535.5990796243334!2d105.08839643696516!3d10.00262628874825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31a0b387b1d029f9%3A0x90890a7f876e6c7e!2zMTgxIE5ndXnhu4VuIFRydW5nIFRy4buxYw!5e0!3m2!1svi!2s!4v1752569811305!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "latitude": "10.002514668989456",
+        "longitude": "105.0886011848361",
+        "tiemChung": "Coming soon",
+        "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+    }  
 ]
