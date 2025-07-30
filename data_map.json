@@ -3296,5 +3296,22 @@
     "longitude": "106.57435530768574",
     "tiemChung": "Coming soon",
     "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+  },
+  {
+    "title": "Số 45 Tỉnh lộ 8 test",
+    "type": "NHI",
+    "img": "SrcLogo.nhi",
+    "name": "Name.nhi",
+    "hotline": "Hotline315",
+    "address": "45 Tỉnh lộ 8, ấp Tân Thạnh Tây,  xã Phú Hoà Đông, Thành phố Hồ Chí Minh",
+    "district": "Phú Hoà Đông",
+    "city": "Hồ Chí Minh",
+    "workingTime": "Time.comingsoon",
+    "linkMap": "https://maps.app.goo.gl/mbbEZfm2R6sNBfeRA",
+    "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d244.79556858637696!2d106.57456049667354!3d10.983808812293804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1svi!2s!4v1753851124861!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+    "latitude": "10.983746605919883",
+    "longitude": "106.57435530768574",
+    "tiemChung": "Coming soon",
+    "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
   }
 ]
