@@ -243,18 +243,44 @@
                         dataMap.forEach(chiNhanh => {
                             //******************** điền chuyên khoa của website (NHI, SAN, LAO, MAT, BVSAN, BVNHI) ********************//
                             if (chiNhanh.type === "NHI" || chiNhanh.type === "BVNHI") {
-                                chiNhanh.name = (chiNhanh.workingTime === "Time.part" ? "Nhi Đồng 315" : "Nhi Đồng 315 & Tiêm Chủng Nhi");
+                                // Xử lý name theo workingTime
+                                chiNhanh.name = (chiNhanh.workingTime === "Time.part")
+                                    ? "Nhi Đồng 315"
+                                    : (chiNhanh.workingTime === "Time.tamly")
+                                        ? "Nhi Đồng 315 & Tâm Lý Nhi"
+                                        : "Nhi Đồng 315 & Tiêm Chủng Nhi";
+                            
+                                // Nếu type là BVNHI thì override name
                                 chiNhanh.name = (chiNhanh.type === "BVNHI" ? "Bệnh viện Nhi Đồng Quốc Tế 315" : chiNhanh.name);
+                            
+                                // Hotline
                                 chiNhanh.hotline = (chiNhanh.hotline === "Hotline315" ? `0901.315.315` : chiNhanh.hotline);
-                                chiNhanh.workingTime = (chiNhanh.workingTime === "Time.full" ? `T2-CN: 8:00 - 11:30 & 13:30 - 20:30` : chiNhanh.workingTime === "Time.part" ? `T2-T6: 17:00 - 20:30</br>&nbsp;&nbsp;&nbsp;&nbsp;T7-CN: 8:00 - 11:30 & 13:30 - 20:30` : chiNhanh.workingTime === "Time.comingsoon" ? "Coming soon":chiNhanh.workingTime);
+                            
+                                // WorkingTime
+                                chiNhanh.workingTime = (chiNhanh.workingTime === "Time.full"
+                                    ? `T2-CN: 8:00 - 11:30 & 13:30 - 20:30`
+                                    : chiNhanh.workingTime === "Time.part"
+                                        ? `T2-T6: 17:00 - 20:30</br>&nbsp;&nbsp;&nbsp;&nbsp;T7-CN: 8:00 - 11:30 & 13:30 - 20:30`
+                                        : chiNhanh.workingTime === "Time.tamly"
+                                            ? `T2-T7: 17:00 - 20:30`
+                                            : chiNhanh.workingTime === "Time.comingsoon"
+                                                ? "Coming soon"
+                                                : chiNhanh.workingTime);
+                            
+                                // Đưa vào danh sách dataMapTemp
                                 dataMapTemp.push(chiNhanh);
+                            
+                                // Danh sách Tỉnh/TP
                                 if (dsTinhTp.some(tinhTp => tinhTp === chiNhanh.city) === false) {
                                     dsTinhTp.push(chiNhanh.city);
                                 };
+                            
+                                // Danh sách Quận/Huyện
                                 if (dsQuanHuyen.some(qh => qh.quanHuyen === chiNhanh.district) === false) {
                                     dsQuanHuyen.push({ tinhTp: chiNhanh.city, quanHuyen: chiNhanh.district });
                                 };
                             }
+
                         });
                         if (dsTinhTp.length > 0) {
                             dsTinhTp.forEach(tinhTp => {
