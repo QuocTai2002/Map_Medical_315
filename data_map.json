@@ -3298,6 +3298,23 @@
     "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
   },
   {
+    "title": "Số 52 Trần Hưng Đạo",
+    "type": "NHI",
+    "img": "SrcLogo.nhi",
+    "name": "Name.nhi",
+    "hotline": "Hotline315",
+    "address": "52 Trần Hưng Đạo, khóm Kiến An, Phường Sa Đéc, tỉnh Đồng Tháp",
+    "district": "Sa Đéc",
+    "city": "Đồng Tháp",
+    "workingTime": "Time.comingsoon",
+    "linkMap": "https://maps.app.goo.gl/gA8XgRsRKiBozMLt8",
+    "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d275.39778403296225!2d105.76845928490894!3d10.2917979707301!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310a7e3d1aeebbf5%3A0xbf9d6a71b92ba1be!2zNTIgxJDGsOG7nW5nIFRy4bqnbiBIxrBuZyDEkOG6oW8sIFBoxrDhu51uZyAxLCBTYSDEkMOpYywgxJDhu5NuZyBUaMOhcA!5e0!3m2!1svi!2s!4v1754885586986!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+    "latitude": "10.291689478753586",
+    "longitude": "105.76846831694208",
+    "tiemChung": "Coming soon",
+    "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+  },
+  {
     "title": "Số 44 Nguyễn Văn Trỗi",
     "type": "NHI",
     "img": "SrcLogo.nhi",
