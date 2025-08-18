@@ -569,7 +569,7 @@
     "address": "374 Tỉnh Lộ 8, KP. 4, H. Củ Chi, TP. Hồ Chí Minh",
     "district": "H. Củ Chi",
     "city": "Hồ Chí Minh",
-    "workingTime": "Time.full",
+    "workingTime": "Time.part",
     "linkMap": "https://maps.app.goo.gl/YTaAgKidxnqCWMkPA",
     "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15667.276547559723!2d106.5020087!3d10.9770204!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310b2db93f429631%3A0x6a8c7ee4e375b7f7!2zTmhpIMSQ4buTbmcgMzE1IFbDoCBUacOqbSBDaOG7p25n!5e0!3m2!1svi!2s!4v1711699026971!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
     "latitude": "10.977019741717",
