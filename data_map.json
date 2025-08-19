@@ -2890,6 +2890,23 @@
     "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
   },
   {
+    "title": "Số D19/26",
+    "type": "NHI",
+    "img": "SrcLogo.nhi",
+    "name": "Name.nhi",
+    "hotline": "Hotline315",
+    "address": "D19/26, Khu phố Bình Thuận 2, phường Thuận Giao, Thành phố Hồ Chí Minh",
+    "district": "Thuận Giao",
+    "city": "Bình Dương",
+    "workingTime": "Time.comingsoon",
+    "linkMap": "https://maps.app.goo.gl/w8teA8uWfRWuu1wW6",
+    "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d533.9481981809578!2d106.7160721804746!3d10.958739674585388!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTDCsDU3JzMwLjUiTiAxMDbCsDQyJzU3LjYiRQ!5e0!3m2!1svi!2s!4v1755570319908!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+    "latitude": "10.958483381426225",
+    "longitude": "106.71596541908474",
+    "tiemChung": "Coming soon",
+    "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+  },
+  {
     "title": "Số 40 Nguyễn Đáng",
     "type": "NHI",
     "img": "SrcLogo.nhi",
