@@ -3298,6 +3298,23 @@
     "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
   },
   {
+    "title": "Số 175A đường Lê Hồng Phong",
+    "type": "SAN",
+    "img": "SrcLogo.san",
+    "name": "Name.san",
+    "hotline": "Hotline315",
+    "address": "175A đường Lê Hồng Phong, Khu phố 5, phường Phú Lợi, Thành phố Hồ Chí Minh",
+    "district": "Phú Lợi",
+    "city": "Hồ Chí Minh",
+    "workingTime": "Time.comingsoon",
+    "linkMap": "https://maps.app.goo.gl/rYYEtiSZBnaxiM8g6",
+    "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d979.9227140255574!2d106.67697356962003!3d10.758291716869728!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f1d485b79c3%3A0x30bc8215ed9efb54!2zMTc1IEzDqiBI4buTbmcgUGhvbmcsIFBoxrDhu51uZyAyLCBRdeG6rW4gNSwgSOG7kyBDaMOtIE1pbmggNzI3MTAsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1755690014155!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+    "latitude": "10.758319385049196",
+    "longitude": "106.6776709439577",
+    "tiemChung": "Coming soon",
+    "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+  },
+  {
     "title": "Số 45 Tỉnh lộ 8",
     "type": "NHI",
     "img": "SrcLogo.nhi",
