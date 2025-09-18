@@ -46,7 +46,7 @@
 
         .timkiem_chinhanh ::-webkit-scrollbar-thumb:hover,
         .timkiem_chinhanh ::-webkit-scrollbar-thumb:active {
-        background-color: #00ADEF; /******************** điền màu của của website (NHI-#00ADEF, SAN-#DF5EA2, LAO-#F58220, MAT-#1DBFD7) ********************/
+        background-color: #FDCA14; /******************** điền màu của của website (NHI-#00ADEF, SAN-#DF5EA2, LAO-#F58220, MAT-#1DBFD7) ********************/
         }
         .timkiem_chinhanh .tim_diachi label {
             background-color: #eee;
@@ -242,11 +242,18 @@
                     if (dataMap.length > 0) {
                         dataMap.forEach(chiNhanh => {
                             //******************** điền chuyên khoa của website (NHI, SAN, LAO, MAT, BVSAN, BVNHI) ********************//
-                            if (chiNhanh.type === "NHI" || chiNhanh.type === "BVNHI") {
-                                chiNhanh.name = (chiNhanh.workingTime === "Time.part" ? "Nhi Đồng 315" : "Nhi Đồng 315 & Tiêm Chủng Nhi");
-                                chiNhanh.name = (chiNhanh.type === "BVNHI" ? "Bệnh viện Nhi Đồng Quốc Tế 315" : chiNhanh.name);
-                                chiNhanh.hotline = (chiNhanh.hotline === "Hotline315" ? `0901.315.315` : chiNhanh.hotline);
-                                chiNhanh.workingTime = (chiNhanh.workingTime === "Time.full" ? `T2-CN: 8:00 - 11:30 & 13:30 - 20:30` : chiNhanh.workingTime === "Time.part" ? `T2-T6: 17:00 - 20:30</br>&nbsp;&nbsp;&nbsp;&nbsp;T7-CN: 8:00 - 11:30 & 13:30 - 20:30` : chiNhanh.workingTime === "Time.comingsoon" ? "Coming soon":chiNhanh.workingTime);
+                            if (chiNhanh.type === "TAMLYNHI") {
+                                chiNhanh.name = (chiNhanh.workingTime === "Time.part" ? 
+                                    "Tâm Lý Nhi 315" : 
+                                    "Tâm Lý Nhi 315 & Tham Vấn Tâm Lý");
+                                chiNhanh.hotline = (chiNhanh.hotline === "Hotline315" ? 
+                                    `0901.315.315` : chiNhanh.hotline);
+                                chiNhanh.workingTime = (chiNhanh.workingTime === "Time.full" ? 
+                                    `T2-CN: 8:00 - 11:30 & 13:30 - 20:30` : 
+                                    chiNhanh.workingTime === "Time.part" ? 
+                                    `T2-T6: 17:00 - 20:30</br>&nbsp;&nbsp;&nbsp;&nbsp;T7-CN: 8:00 - 11:30 & 13:30 - 20:30` : 
+                                    chiNhanh.workingTime === "Time.comingsoon" ? 
+                                    "Coming soon":chiNhanh.workingTime);
                                 dataMapTemp.push(chiNhanh);
                                 if (dsTinhTp.some(tinhTp => tinhTp === chiNhanh.city) === false) {
                                     dsTinhTp.push(chiNhanh.city);
