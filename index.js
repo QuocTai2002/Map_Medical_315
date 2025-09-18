@@ -32,6 +32,7 @@ window.initMap = async function () {
     bvnhi: "Bệnh viện Nhi Đồng Quốc Tế 315",
     vp: "Văn phòng Medical 315",
     ivy: "Phòng Khám Đa Khoa Quốc Tế Ivy Health",
+    tamlynhi: "Tâm Lý Nhi 315",
   };
   const layIdChiNhanh = (chiNhanh) => {
     return "id" + dataMap315.indexOf(chiNhanh);
@@ -150,6 +151,11 @@ window.initMap = async function () {
         chiNhanh.img =
           "https://w.ladicdn.com/5aa6273ea81f66ca2eacc40b/ivy-lodo-20221025111921-fqww3.png";
         chiNhanh.name = Name.ivy;
+        break;
+      case "TAMLY":
+        chiNhanh.img =
+          "https://w.ladicdn.com/5aa6273ea81f66ca2eacc40b/rbg/tttlnk_avt-01-20250912065013-j6jiu.png";
+        chiNhanh.name = Name.tamly;
         break;
       default:
         break;
