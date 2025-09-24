@@ -2512,7 +2512,7 @@
     "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3922.4663299118297!2d106.40309769999999!3d10.542633999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310ab73b04cbbeab%3A0xd8698b0435cde13c!2zTmhpIMSQ4buTbmcgMzE1IFbDoCBUacOqbSBDaOG7p25n!5e0!3m2!1svi!2s!4v1743408706506!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
     "latitude": "10.542857797074209",
     "longitude": "106.4030390769395",
-    "tiemChung": "Coming soon",
+    "tiemChung": "",
     "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
   },
   {
