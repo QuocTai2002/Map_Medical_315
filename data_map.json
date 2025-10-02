@@ -3451,6 +3451,23 @@
     "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
   },
   {
+    "title": "118D đường Phùng Hưng",
+    "type": "NHI",
+    "img": "SrcLogo.nhi",
+    "name": "Name.nhi",
+    "hotline": "Hotline315",
+    "address": "118D đường Phùng Hưng, Khu 4, Ấp 8, xã An Phước, tỉnh Đồng Nai",
+    "district": "An Phước",
+    "city": "Đồng Nai",
+    "workingTime": "Time.comingsoon",
+    "linkMap": "https://maps.app.goo.gl/rUviRbSPkDKYZLSu7",
+    "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3918.3717942088833!2d106.95029707504308!3d10.859300489294563!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTDCsDUxJzMzLjUiTiAxMDbCsDU3JzEwLjMiRQ!5e0!3m2!1svi!2s!4v1759386480185!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+    "latitude": "10.859516481383107",
+    "longitude": "106.95288272975702",
+    "tiemChung": "Coming soon",
+    "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+  },
+  {
     "title": "Số 44 Nguyễn Văn Trỗi",
     "type": "TAMLY",
     "img": "SrcLogo.tamly",
