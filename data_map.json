@@ -1530,23 +1530,6 @@
     "workingTimeTc": ""
   },
   {
-    "title": "Số 228-230 Hoàng Văn Thụ",
-    "type": "MAT",
-    "img": "SrcLogo.mat",
-    "name": "Name.mat",
-    "hotline": "0937.793.315",
-    "address": "228-230 Hoàng Văn Thụ, P. 4, Q. Tân Bình, TP. Hồ Chí Minh",
-    "district": "Q. Tân Bình",
-    "city": "Hồ Chí Minh",
-    "workingTime": "Time.full",
-    "linkMap": "https://maps.app.goo.gl/PrRyZ5rpPZ6xY6jv7",
-    "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.152084302024!2d106.6599543!3d10.7996616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175297c6de9c699%3A0x4aa67e792cc6bfc5!2zTeG6r3QgMzE1!5e0!3m2!1svi!2s!4v1711702496712!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-    "latitude": "10.799641735411",
-    "longitude": "106.6599765",
-    "tiemChung": "",
-    "workingTimeTc": ""
-  },
-  {
     "title": "Số 277B-277C Lê Văn Quới",
     "type": "SAN",
     "img": "SrcLogo.san",
