@@ -2818,7 +2818,7 @@
     "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d666.2287184749135!2d106.6664402607626!3d10.984691843975838!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3174d122e7a963a7%3A0x7453e7f18719c14c!2zMzc2IMSQ4bqhaSBs4buZIELDrG5oIETGsMahbmcsIFBow7ogTOG7o2ksIFRo4bunIEThuqd1IE3hu5l0LCBCw6xuaCBExrDGoW5nLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1739528219853!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
     "latitude": "10.985129871470042",
     "longitude": "106.66619206599137",
-    "tiemChung": "Coming soon",
+    "tiemChung": "",
     "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
   },
   {
@@ -3047,11 +3047,11 @@
     "type": "NHI",
     "img": "SrcLogo.nhi",
     "name": "Name.nhi",
-    "hotline": "0908.912.315",
+    "hotline": "Hotline315",
     "address": "86 đường Cao Văn Lầu, Khóm 2, Phường 2, thành phố Bạc Liêu, tỉnh Bạc Liêu",
     "district": "Tp. Bạc Liêu",
     "city": "Bạc Liêu",
-    "workingTime": "Time.full",
+    "workingTime": "Time.comingsoon",
     "linkMap": "https://maps.app.goo.gl/2NCff8nciMHhd9kb6",
     "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d927.8367786054628!2d105.72686840442236!3d9.282045985436438!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOcKwMTYnNTMuNCJOIDEwNcKwNDMnMzYuNCJF!5e1!3m2!1svi!2s!4v1748073113766!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
     "latitude": "9.281490358006055",
