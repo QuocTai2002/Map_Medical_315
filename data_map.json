@@ -3209,7 +3209,7 @@
     "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1037.8124045791924!2d106.68550560432932!3d10.86797596506056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175282e4de86a89%3A0x4593069d897c4f06!2zNjIgxJAuIFRo4bqhbmggTOG7mWMgMjcsIFRo4bqhbmggTOG7mWMsIFF14bqtbiAxMiwgSOG7kyBDaMOtIE1pbmgsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1750164549101!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
     "latitude": "10.86804712875178",
     "longitude": "106.68530100182865",
-    "tiemChung": "Coming soon",
+    "tiemChung": "",
     "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
   },
   {
