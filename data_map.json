@@ -1530,6 +1530,23 @@
     "workingTimeTc": ""
   },
   {
+    "title": "885 Nguyễn Ảnh Thủ",
+    "type": "MAT",
+    "img": "SrcLogo.mat",
+    "name": "Name.mat",
+    "hotline": "Hotline315",
+    "address": "885 Nguyễn Ảnh Thủ, P. Tân Chánh Hiệp, Q.12, TP. Hồ Chí Minh",
+    "district": "Q. 12",
+    "city": "Hồ Chí Minh",
+    "workingTime": "Time.full",
+    "linkMap": "https://maps.app.goo.gl/weS4KJpCbXYcKbYX8",
+    "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.179759656831!2d106.61960057586946!3d10.873928457385988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752a041367e3ed%3A0x47a742b6f1495f66!2zODg1IMSQLiBOZ3V54buFbiDhuqJuaCBUaOG7pywgVMOibiBDaMOhbmggSGnhu4dwLCBRdeG6rW4gMTIsIFRow6BuaCBwaOG7kSBI4buTIENow60gTWluaCwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1769737687179!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+    "latitude": "10.874154975606194",
+    "longitude": "106.62212185736074",
+    "tiemChung": "",
+    "workingTimeTc": ""
+  },
+  {
     "title": "Số 277B-277C Lê Văn Quới",
     "type": "SAN",
     "img": "SrcLogo.san",
