@@ -236,8 +236,8 @@ window.initMap = async function () {
     lblBvSan = document.getElementById("lbl_bvsan"),
     lblBvNhi = document.getElementById("lbl_bvnhi"),
     lblVp = document.getElementById("lbl_vp"),
-    lblIvy = document.getElementById("lbl_ivy");
-    lblTamly = document.getElementById("lbl_tamly");
+    lblIvy = document.getElementById("lbl_ivy"),
+    lblTamly = document.getElementById("lbl_tamly"),
 
   const loadNgonNgu = () => {
     btnNgonNgu.innerHTML = ``;
