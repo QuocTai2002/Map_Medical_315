@@ -237,6 +237,7 @@ window.initMap = async function () {
     lblBvNhi = document.getElementById("lbl_bvnhi"),
     lblVp = document.getElementById("lbl_vp"),
     lblIvy = document.getElementById("lbl_ivy");
+    lblTamly = document.getElementById("lbl_tamly");
 
   const loadNgonNgu = () => {
     btnNgonNgu.innerHTML = ``;
@@ -261,6 +262,7 @@ window.initMap = async function () {
     lblBvNhi.innerText = dichNgonNgu(Name.bvnhi, lang);
     lblVp.innerText = dichNgonNgu(Name.vp, lang);
     lblIvy.innerText = dichNgonNgu(Name.ivy, lang);
+    lblTamly.innerText = dichNgonNgu(Name.tamly, lang);
     lblChonTatCa.innerHTML = dichNgonNgu(lblChonTatCa.innerHTML, lang);
     lblTimLanCan.innerHTML = dichNgonNgu(lblTimLanCan.innerHTML, lang);
     lblBanKinh.innerText = dichNgonNgu(lblBanKinh.innerText, lang);
