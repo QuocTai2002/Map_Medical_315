@@ -32,7 +32,7 @@ window.initMap = async function () {
     bvnhi: "Bệnh viện Nhi Đồng Quốc Tế 315",
     vp: "Văn phòng Medical 315",
     ivy: "Phòng Khám Đa Khoa Quốc Tế Ivy Health",
-    tamlynhi: "Tâm Lý Nhi 315",
+    tamly: "Tâm Lý Nhi 315",
   };
   const layIdChiNhanh = (chiNhanh) => {
     return "id" + dataMap315.indexOf(chiNhanh);
