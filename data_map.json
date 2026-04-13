@@ -348,7 +348,7 @@
     "address": "143C Phan Đăng Lưu, P. 2, Q. Phú Nhuận, TP. Hồ Chí Minh",
     "district": "Q. Phú Nhuận",
     "city": "Hồ Chí Minh",
-    "workingTime": "Time.full",
+    "workingTime": "Time.comingsoon",
     "linkMap": "https://maps.app.goo.gl/Q9kyeZePmFBCJSPk6",
     "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.1201959245072!2d106.6810470760128!3d10.802105258717484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317529c4bfcbd683%3A0xf17079ac6bb94eec!2zTmhpIMSQ4buTbmcgMzE1IFbDoCBUacOqbSBDaOG7p25n!5e0!3m2!1svi!2s!4v1711701762749!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
     "latitude": "10.802258070188",
