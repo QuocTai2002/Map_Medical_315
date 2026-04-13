@@ -1020,23 +1020,6 @@
     "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 20:00"
   },
   {
-    "title": "Số 1457 Phan Văn Trị",
-    "type": "SAN",
-    "img": "SrcLogo.san",
-    "name": "Name.san",
-    "hotline": "0933.762.315",
-    "address": "1457 Phan Văn Trị, P. 10, Q. Gò Vấp, TP. Hồ Chí Minh",
-    "district": "Q. Gò Vấp",
-    "city": "Hồ Chí Minh",
-    "workingTime": "Time.part",
-    "linkMap": "https://maps.app.goo.gl/J7et9z62ZyYFyfyd6",
-    "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6590.423880686138!2d106.66542601333889!3d10.835057998930687!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175295d297d5941%3A0xc8dd39fb71ccea25!2zUGjhu6UgU-G6o24gMzE1!5e0!3m2!1svi!2s!4v1711700872796!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-    "latitude": "10.8352618",
-    "longitude": "106.665588406458",
-    "tiemChung": "",
-    "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
-  },
-  {
     "title": "Số 199-201 Thống Nhất",
     "type": "NHI",
     "img": "SrcLogo.nhi",
