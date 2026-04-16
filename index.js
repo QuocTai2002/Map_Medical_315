@@ -935,4 +935,4 @@ window.initMap = async function () {
   loadDsTinhTp();
   loadSoLuongChiNhanh();
 };
-
+window.initMap();
