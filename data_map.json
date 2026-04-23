@@ -3517,5 +3517,22 @@
     "longitude": "106.398387966098",
     "tiemChung": "Coming soon",
     "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
+  },
+  {
+    "title": "CMT8",
+    "type": "BVSAN",
+    "img": "SrcLogo.bvsan",
+    "name": "Name.bvsan",
+    "hotline": "Hotline315",
+    "address": "CMT8, Phường Bà Rịa, TP HCM",
+    "district": "TP. Bà Rịa",
+    "city": "Hồ Chí Minh",
+    "workingTime": "Time.comingsoon",
+    "linkMap": "https://maps.app.goo.gl/ADUXThDLWZqj4m9NA",
+    "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d245.1964946203109!2d107.1895564583245!3d10.48931932814962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTDCsDI5JzIxLjgiTiAxMDfCsDExJzIzLjYiRQ!5e0!3m2!1svi!2s!4v1776914259405!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+    "latitude": "10.4893193",
+    "longitude": "107.1895565",
+    "tiemChung": "Coming soon",
+    "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
   }
 ]
