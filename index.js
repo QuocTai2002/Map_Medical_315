@@ -503,7 +503,7 @@ window.initMap = async function () {
     let inputCheckBox = document.getElementById(
       "ckb_" + chuyenKhoa.toLowerCase()
     );
-    return inputCheckBox.checked;
+    return inputCheckBox ? inputCheckBox.checked : false;
   };
   const locChuyenKhoa = (dataMap) => {
     let dataMapTemp = [];
