@@ -293,29 +293,29 @@ window.initMap = async function () {
         /Nhi Đồng 315 & Tiêm Chủng Nhi/g,
         "Pediatric & Vaccination 315"
       );
-      str = str.replace(/Phụ Sản 315/g, "Maternity 315");
+      str = str.replace(/Phụ Sản 315/g, "Obstetrics & Gynecology 315");
       str = str.replace(
         /Tim Mạch - Tiểu Đường 315/g,
-        "Cardiovascular & Diabetes 315"
+        "Cardiology & Diabetes 315"
       );
-      str = str.replace(/Mắt 315/g, "Ophthalmology 315");
+      str = str.replace(/Mắt 315/g, "Ophthalmolog 315");
       str = str.replace(
         /Bệnh viện Phụ Sản Quốc Tế 315/g,
-        "International Maternity Hospital 315"
+        "315 International Maternity Hospital"
       );
       str = str.replace(
         /Bệnh viện Nhi Đồng Quốc Tế 315/g,
-        "International Pediatric Hospital 315"
+        "315 International Children’s Hospital"
       );
        str = str.replace(
         /Phòng Khám Đa Khoa Quốc Tế Ivy Health/g,
-        "Ivy Health International Multi-Specialty Clinic"
+        "Ivy Health International General Clinic"
       );
       str = str.replace(
         /Tâm Lý Nhi 315/g,
-        "Child Psychology 315"
+        "Pediatric Psychology 315"
       );
-      str = str.replace(/Văn phòng Medical 315/g, "Medical 315 Office");
+      str = str.replace(/Văn phòng Medical 315/g, "315 Medical Office");
       // str = str.replace(/Phòng Khám Đa Khoa Quốc Tế Ivy Health/g, "Phòng Khám Đa Khoa Quốc Tế Ivy Health");
       str = str.replace(/Tìm lân cận/g, "Nearby");
       str = str.replace(/Bán kính/g, "Radius");
@@ -356,29 +356,29 @@ window.initMap = async function () {
         /Pediatric & Vaccination 315/g,
         "Nhi Đồng 315 & Tiêm Chủng Nhi"
       );
-      str = str.replace(/Maternity 315/g, "Phụ Sản 315");
+      str = str.replace(/Obstetrics & Gynecology 315/g, "Phụ Sản 315");
       str = str.replace(
-        /Cardiovascular & Diabetes 315/g,
+        /Cardiology & Diabetes 315/g,
         "Tim Mạch - Tiểu Đường 315"
       );
-      str = str.replace(/Ophthalmology 315/g, "Mắt 315");
+      str = str.replace(/Ophthalmolog 315/g, "Mắt 315");
       str = str.replace(
-        /International Maternity Hospital 315/g,
+        /315 International Maternity Hospital/g,
         "Bệnh viện Phụ Sản Quốc Tế 315"
       );
       str = str.replace(
-        /International Pediatric Hospital 315/g,
+        /315 International Children’s Hospital/g,
         "Bệnh viện Nhi Đồng Quốc Tế 315"
       );
       str = str.replace(
-        /Ivy Health International Multi-Specialty Clinic/g,
+        /Ivy Health International General Clinic/g,
         "Phòng Khám Đa Khoa Quốc Tế Ivy Health"
       );
       str = str.replace(
-        /Child Psychology 315/g,
+        /Pediatric Psychology 315/g,
         "Tâm Lý Nhi 315"
       );
-      str = str.replace(/Medical 315 Office/g, "Văn phòng Medical 315");
+      str = str.replace(/315 Medical Office/g, "Văn phòng Medical 315");
       // str = str.replace(/Phòng Khám Đa Khoa Quốc Tế Ivy Health/g, "Phòng Khám Đa Khoa Quốc Tế Ivy Health");
       str = str.replace(/Nearby/g, "Tìm lân cận");
       str = str.replace(/Radius/g, "Bán kính");
