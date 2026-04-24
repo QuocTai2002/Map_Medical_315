@@ -307,6 +307,14 @@ window.initMap = async function () {
         /Bệnh viện Nhi Đồng Quốc Tế 315/g,
         "International Pediatric Hospital 315"
       );
+       str = str.replace(
+        /Phòng Khám Đa Khoa Quốc Tế Ivy Health/g,
+        "Ivy Health International Multi-Specialty Clinic"
+      );
+      str = str.replace(
+        /Tâm Lý Nhi 315/g,
+        "Child Psychology 315"
+      );
       str = str.replace(/Văn phòng Medical 315/g, "Medical 315 Office");
       // str = str.replace(/Phòng Khám Đa Khoa Quốc Tế Ivy Health/g, "Phòng Khám Đa Khoa Quốc Tế Ivy Health");
       str = str.replace(/Tìm lân cận/g, "Nearby");
@@ -361,6 +369,14 @@ window.initMap = async function () {
       str = str.replace(
         /International Pediatric Hospital 315/g,
         "Bệnh viện Nhi Đồng Quốc Tế 315"
+      );
+      str = str.replace(
+        /Ivy Health International Multi-Specialty Clinic/g,
+        "Phòng Khám Đa Khoa Quốc Tế Ivy Health"
+      );
+      str = str.replace(
+        /Child Psychology 315/g,
+        "Tâm Lý Nhi 315"
       );
       str = str.replace(/Medical 315 Office/g, "Văn phòng Medical 315");
       // str = str.replace(/Phòng Khám Đa Khoa Quốc Tế Ivy Health/g, "Phòng Khám Đa Khoa Quốc Tế Ivy Health");
