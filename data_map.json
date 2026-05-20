@@ -1929,7 +1929,7 @@
     "address": "109 Hiệp Bình, P. Hiệp Bình Chánh, TP. Thủ Đức, TP. Hồ Chí Minh",
     "district": "TP. Thủ Đức",
     "city": "Hồ Chí Minh",
-    "workingTime": "Time.part",
+    "workingTime": "Time.full",
     "linkMap": "https://maps.app.goo.gl/xgVJyKm2HehgH8Se6",
     "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d881.2087745904524!2d106.73050800934718!3d10.842872146091853!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175277a09d2bc15%3A0x9bb0fe49f9548551!2zUGjhu6UgU-G6o24gMzE1IFbDoCBUacOqbSBDaOG7p25n!5e0!3m2!1svi!2s!4v1719910517700!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
     "latitude": "10.843081870007",
