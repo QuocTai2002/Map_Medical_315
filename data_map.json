@@ -399,7 +399,7 @@
     "address": "472B Trần Hưng Đạo, P. 2, Q. 5, TP. Hồ Chí Minh",
     "district": "Q. 5",
     "city": "Hồ Chí Minh",
-    "workingTime": "Time.part",
+    "workingTime": "Time.comingsoon",
     "linkMap": "https://maps.app.goo.gl/YHhGLh7DVVhFZzQV7",
     "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15678.882251108362!2d106.6825996!3d10.7560061!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752fca79331357%3A0xc9d6da4284fca966!2zUGjhu6UgU-G6o24gMzE1!5e0!3m2!1svi!2s!4v1711698768085!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
     "latitude": "10.756659600323",
