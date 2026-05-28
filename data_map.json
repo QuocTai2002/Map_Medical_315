@@ -671,7 +671,7 @@
     "address": "34A Lê Thị Hà, P. Tân Xuân, H. Hóc Môn, TP. Hồ Chí Minh",
     "district": "H. Hóc Môn",
     "city": "Hồ Chí Minh",
-    "workingTime": "Time.part",
+    "workingTime": "Time.full",
     "linkMap": "https://maps.app.goo.gl/AaTHrSTov2V1que4A",
     "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15672.826400005692!2d106.5975069!3d10.8718851!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752b2c93ba7bf7%3A0x1829d948f79a6168!2zUGjhu6UgU-G6o24gMzE1!5e0!3m2!1svi!2s!4v1711700294263!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
     "latitude": "10.872580492883",
