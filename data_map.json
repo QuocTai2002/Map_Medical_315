@@ -1589,7 +1589,7 @@
     "address": "162-162B Trần Hưng Đạo, P. An Nghiệp, Q. Ninh Kiều, TP. Cần Thơ",
     "district": "Q. Ninh Kiều",
     "city": "Cần Thơ",
-    "workingTime": "Time.full",
+    "workingTime": "Time.part",
     "linkMap": "https://maps.app.goo.gl/sbdNUZpzw8U3uot87",
     "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15715.043598360608!2d105.7758114!3d10.0365789!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31a089ac22e399fb%3A0x5a8f42dd64f7fe5f!2zTmhpIMSQ4buTbmcgMzE1IFbDoCBUacOqbSBDaOG7p25n!5e0!3m2!1svi!2s!4v1717753854681!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
     "latitude": "10.036599061819",
