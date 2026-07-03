@@ -1844,7 +1844,7 @@
     "address": "41 Nguyễn Thái Sơn, P. 04, Q. Gò Vấp, TP. Hồ Chí Minh",
     "district": "Q. Gò Vấp",
     "city": "Hồ Chí Minh",
-    "workingTime": "Time.part",
+    "workingTime": "Time.full",
     "linkMap": "https://maps.app.goo.gl/V7j2Z1HtDAVo86A3A",
     "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4151.9131721238!2d106.68407621323514!3d10.82016957211387!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752973142052f3%3A0xe1fb979059de2ab7!2zUGjhu6UgU-G6o24gMzE1!5e0!3m2!1svi!2s!4v1719910636095!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
     "latitude": "10.820833544164",
@@ -2784,7 +2784,7 @@
     "srcIframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d419.8514757432989!2d108.4699151884753!3d15.568508636261976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3169dd1f581ae1e1%3A0x40f4e77a86b65027!2zOTkgTMO9IFRoxrDhu51uZyBLaeG7h3QsIFBoxrDhu51uZyBBbiBN4bu5LCBUYW0gS-G7sywgUXXhuqNuZyBOYW0sIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1741256711439!5m2!1svi!2s' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
     "latitude": "15.568490007708691",
     "longitude": "108.4701788893171",
-    "tiemChung": "",
+    "tiemChung": "Coming soon",
     "workingTimeTc": "T2-CN: 08:00 - 11:00 & 13:30 - 17:00"
   },
   {
